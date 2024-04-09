@@ -1,36 +1,36 @@
 .controller.edit {
-    background: url(https://i.imgur.com/kGz58cs.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/kGz58cs.png);
 }
 
 .edit .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://i.imgur.com/dEl4Cqa.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/dEl4Cqa.png);
     opacity: 0;
 }
 
 .edit .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://i.imgur.com/7EtjLH0.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/7EtjLH0.png);
     opacity: 0;
 }
 
 .edit .face {
-    background: url(https://i.imgur.com/ara6OpZ.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/ara6OpZ.png);
     position: absolute;
     opacity: 0;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(https://i.imgur.com/CZ670ct.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/CZ670ct.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .back, .edit .start {
-    background: url(https://i.imgur.com/lNRvf72.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/lNRvf72.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -45,7 +45,7 @@
 
 .edit .button {
     position: absolute;
-    background: url(https://i.imgur.com/PNmMwif.png);
+    background: url(https://raw.githubusercontent.com/xZeko-SRC/xZeKo-Controller/main/Controller/PNmMwif.png);
     width: 48px;
     height: 48px;
 }
