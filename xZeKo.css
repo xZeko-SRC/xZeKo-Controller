@@ -1,0 +1,110 @@
+.controller.edit {
+    background: url(https://i.imgur.com/kGz58cs.png);
+}
+
+.edit .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(https://i.imgur.com/dEl4Cqa.png);
+    opacity: 0;
+}
+
+.edit .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(https://i.imgur.com/7EtjLH0.png);
+    opacity: 0;
+}
+
+.edit .face {
+    background: url(https://i.imgur.com/ara6OpZ.png);
+    position: absolute;
+    opacity: 0;
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(https://i.imgur.com/CZ670ct.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+.edit .back, .edit .start {
+    background: url(https://i.imgur.com/lNRvf72.png);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+.edit .abxy {
+    position: absolute;
+    width: 153px;
+    height: 156px;
+    top: 192px;
+    left: 488px;
+}
+
+.edit .button {
+    position: absolute;
+    background: url(https://i.imgur.com/PNmMwif.png);
+    width: 48px;
+    height: 48px;
+}
+
+.edit .button.pressed {
+    background-position-y: -48px;
+    margin-top: 5px;
+    opacity: 1;
+}
+
+.edit .a {
+    background-position: 0 0;
+    top: 108px;
+    left: 55px;
+}
+
+.edit .b {
+    background-position: -49px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .x {
+    background-position: -98px 0;
+    top: 58px;
+    left: 4px;
+}
+
+.edit .y {
+    background-position: 48px 0;
+    left: 55px;
+    top: 7px;
+}
+.edit .quadrant {
+    position: absolute;
+    background: url();
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.edit .p0 {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.edit .p1 {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.edit .p2 {
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.edit .p3 {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
